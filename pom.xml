@@ -3,11 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>gov.nsa.datawave.microservice</groupId>
-    <artifactId>object-size-benchmark</artifactId>
+    <artifactId>datawave-objectsizeof-benchmark</artifactId>
     <version>1</version>
     <packaging>jar</packaging>
 
-    <name>Datawave Object Size Benchmark</name>
+    <name>Datawave ObjectSizeOf Benchmark</name>
+    <description>JMH Microbechmark for Datawave ObjectSizeOf class</description>
 
     <dependencies>
         <dependency>
